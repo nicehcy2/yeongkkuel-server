@@ -54,10 +54,8 @@
 
 ## 🔗 Quick Jump
 - [채팅 기능 리팩토링 Repository](https://github.com/nicehcy2/Login-Websocket-STOPM)
-
-## SCREENSHOTS
-<br>
-
+<br/><br/>
+  
 ## ERD DIAGRAM
 <img width="2088" height="1160" alt="image" src="https://github.com/user-attachments/assets/61b8669c-47a4-4182-8dae-b22dc184de68" />
 
